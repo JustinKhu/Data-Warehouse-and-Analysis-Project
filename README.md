@@ -43,5 +43,7 @@ This project follows the **medallion architecture**:
  ## Author
 
 My name is Justin Khu, I'm an aspiring data analyst with growing interest in data analytics. 
+
 I made this project to apply what I’ve learned in SQL and data modelling, — and to keep improving my ability to turn raw data into clear, usable insights.
+
 Feel free to connect or provide feedback.
