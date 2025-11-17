@@ -27,17 +27,21 @@ This project follows the **medallion architecture**:
 | **Bronze (Raw)** | Stores ingested data in its original, unmodified state. |
 | **Silver (Cleaned)** | Cleanses, standardizes, and transforms data for consistency. |
 | **Gold (Analytics)** | Optimized for reporting and business intelligence queries. |
+---
 
 ## Key Learnings 
-
-
+- The importance of visually mapping out which keys connect to each other (especially when working with multiple tables).
+- Best practice of conducting regular quality checks.
+- Cleaning data efficiently by working in separate queries.
+- The flow of data before it is analysed by a data analyst for business insights.
+- The importance of standardized/compatible data from CSV files for efficient and seamless integration into SQL.
+- Examining and deriving new columns to create compatible keys.
 ---
 
 ## ⚙️ Technologies & Tools
 - **Database:** SQL Server
-- **Design:** ER diagrams
 - **Version Control:** Git & GitHub  
-- **Optional Extensions:** 
+- **Operating System:** Windows 10
 ---
 
  ## Author
